@@ -4,7 +4,7 @@ def lik (f):
 lik(2)
 lik(4)
 print("shit code")
-
+print("you are shit")
 
 
 
